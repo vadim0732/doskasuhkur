@@ -28,3 +28,33 @@
    28  git push --
    29  git push -u origin main
    30  history
+
+  1  git init
+    2  git clone https://github.com/vadim0732/doskasuhkur.git
+    3  cd suhkur
+    4  ls
+    5  cd doskasuhkur
+    6  npx create-strapi-app doskasuhkur --quickstart
+    7  cd .
+    8  cd ..
+    9  npx create-strapi-app doskasuhkur --quickstart
+   10  cd doskasuhkur
+   11  npx create-strapi-app doskasuhkur --quickstart
+   12  npm -v
+   13  node -v
+   14  cd C:\Users\IS\AppData\Roaming
+   15  cd ..
+   16  cd C:\Users\IS\AppData\Roaming
+   17  cd C:\Users\IS\AppData\Roaming:
+   18* cd C:\Users\IS\AppData\Roaming
+   19  cd C:\Users\IS\AppData\Roaming
+   20  cd C:/Users\IS\AppData\Roaming
+   21  cd C:/Users/IS/AppData/Roaming
+   22  mkdir npm
+   23  cd ..cd ..
+   24  cd ..
+   25  cd ..
+   26  cd doskasuhkur
+   27  npx create-strapi-app doskasuhkur --quickstart
+   28  ls
+   29  history
